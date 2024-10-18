@@ -2,7 +2,7 @@
 
 ## Te raden woord
 
-| |o| |u| |
+| |o| |u|t|
 
 |-|2|-|4|-|
 
@@ -18,4 +18,4 @@
  * E (Nee)
  * U (Ja)  
  * S (Nee)
- * T
+ * T (Ja)  
