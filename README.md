@@ -9,7 +9,7 @@
 |1|2|3|4|5|
 
 ## Score
-![gallow](./images/5.png)
+![gallow](./images/6.png)
 
 ## Beurten
  * O (Ja)
@@ -19,4 +19,4 @@
  * U (Ja)  
  * S (Nee)
  * T (Ja)  
- * L		
+ * L (Nee)		
