@@ -12,4 +12,5 @@
 ![gallow](./images/1.png)
 
 ## Beurten
- * O (Ja)  
+ * O (Ja)
+ * B  
